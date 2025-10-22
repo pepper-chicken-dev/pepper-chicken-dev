@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pepper Chicken!😄
+# 👋 Hi, I'm Pepper Chicken!😄😄
 <!--
 **pepper-chicken-dev/pepper-chicken-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
